@@ -1,0 +1,24 @@
+{
+  "track_len": 32,
+  "qualify_count": 4,
+  "include_budawang": true,
+  "budawang_start_round": 3,
+  "tiles": {
+    "3": "green_arrow",
+    "6": "vortex",
+    "10": "red_arrow",
+    "11": "green_arrow",
+    "16": "green_arrow",
+    "20": "vortex",
+    "22": "green_arrow",
+    "28": "red_arrow"
+  },
+  "beans": [
+    {"name": "珂莱塔团子", "skill": "double_steps_28"},
+    {"name": "守岸人团子", "skill": "only_2_or_3"},
+    {"name": "爱弥斯团子", "skill": "teleport_after_midpoint_once"},
+    {"name": "琳奈团子", "skill": "double_60_or_stop_20"},
+    {"name": "莫宁团子", "skill": "cycle_3_2_1"},
+    {"name": "千咲团子", "skill": "min_roll_bonus_2"}
+  ]
+}

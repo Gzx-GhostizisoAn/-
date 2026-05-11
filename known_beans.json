@@ -1,0 +1,66 @@
+{
+  "A组": [
+    {
+      "name": "陆·赫斯团子",
+      "skill": "candy_device",
+      "description": "触发推进装置时额外前进 3 格；触发阻碍装置时额外后退 1 格。"
+    },
+    {
+      "name": "西格莉卡团子",
+      "skill": "sun_spirit_slow_two",
+      "description": "每轮投骰子后，标记排名紧邻自身且更高的最多两个团子；被标记团子本回合少前进 1 格，但不会降到 0 或更少。"
+    },
+    {
+      "name": "达妮娅团子",
+      "skill": "double_same_roll",
+      "description": "投骰子时，若投出和上一次相同的点数，则额外前进 2 格。"
+    },
+    {
+      "name": "绯雪团子",
+      "skill": null,
+      "description": "暂无特殊技能。"
+    },
+    {
+      "name": "卡提希娅团子",
+      "skill": "last_place_60_forward_2",
+      "description": "每场最多触发 1 次；自身移动结束后，若处于最后一名，本场剩余回合有 60% 概率额外前进 2 格。"
+    },
+    {
+      "name": "菲比团子",
+      "skill": "blessing_50_forward_1",
+      "description": "50% 概率额外前进 1 格。"
+    }
+  ],
+  "B组": [
+    {
+      "name": "珂莱塔团子",
+      "skill": "double_steps_28",
+      "description": "28% 概率以骰子的双倍点数前进。"
+    },
+    {
+      "name": "守岸人团子",
+      "skill": "only_2_or_3",
+      "description": "骰子只会掷出 2 或 3。"
+    },
+    {
+      "name": "爱弥斯团子",
+      "skill": "teleport_after_midpoint_once",
+      "description": "每场比赛一次，当该团子经过赛程中点后，若前方存在其他非布大王的团子，则传送到最近团子顶端。"
+    },
+    {
+      "name": "琳奈团子",
+      "skill": "double_60_or_stop_20",
+      "description": "每回合 60% 概率按照双倍点数移动，20% 概率当回合无法移动，其余情况正常移动。"
+    },
+    {
+      "name": "莫宁团子",
+      "skill": "cycle_3_2_1",
+      "description": "投骰子时，点数固定按 3/2/1 循环出现。"
+    },
+    {
+      "name": "千咲团子",
+      "skill": "min_roll_bonus_2",
+      "description": "投骰子时，若投出的结果为本轮所有点数最小之一，则额外前进 2 格。"
+    }
+  ]
+}
